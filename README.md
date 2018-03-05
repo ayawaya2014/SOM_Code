@@ -1,6 +1,6 @@
 # APF_Code
 
-MATLAB Code of SOM (self organized feature map) Based Method for Task Assignment of Multi-Agent Systems
+MATLAB Code of SOM (self-organizing maps) Based Method for Task Assignment of Multi-Agent Systems
 
 Authors: Xin Li, Daqi Zhu
 
