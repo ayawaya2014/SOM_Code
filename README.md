@@ -1,6 +1,6 @@
-# APF_Code
+# SOM_Code
 
-MATLAB Code of SOM (self-organizing maps) Based Method for Task Assignment of Multi-Agent Systems
+MATLAB Code of SOM (self-organizing maps) Neural Network Based Method for Task Assignment of Multi-Agent Systems
 
 Authors: Xin Li, Daqi Zhu
 
