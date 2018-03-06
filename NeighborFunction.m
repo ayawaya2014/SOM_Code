@@ -2,7 +2,7 @@ function neigh = NeighborFunction(weight,winner,r,t)
 
 % 作者：李欣
 % 单位：上海海事大学水下机器人与智能系统实验室
-% Date: 2008-11-30
+% Date: 2009-11-30
 % Modified: 2010-1-6, 2014-12-1, 2018-3-5
 % Shanghai, China 
 
