@@ -1,6 +1,6 @@
 function weight_new = updateWeight(weight,B,Neigh,dist,winnerT,Dmin)
 
-% 作者：李欣 朱大奇 教授
+% 作者：李欣
 % 单位：上海海事大学水下机器人与智能系统实验室
 % Date: 2009-11-30
 % Modified: 2010-1-5, 2014-12-1, 2018-3-5
